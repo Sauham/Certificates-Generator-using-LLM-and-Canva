@@ -10,7 +10,7 @@ app.use(express.json());
 // Serve static files
 app.use(express.static(path.join(__dirname, '../frontend')));
 
-const GEMINI_API_KEY = 'AIzaSyBrVD1-0nfKoTuFAV9QrATTemn7JK5thdc';
+const GEMINI_API_KEY = 'YOUR GEMINI KEY';
 
 app.get('/', (req, res) => {
   res.sendFile(path.join(__dirname, '../frontend/index.html'));
