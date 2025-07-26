@@ -268,7 +268,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Sauham**
 - GitHub: [@Sauham](https://github.com/Sauham)
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/sauham-vyas)
 
 ## 🙏 Acknowledgments
 
@@ -282,7 +282,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 If you have any questions or need help with the project:
 
 1. **GitHub Issues**: [Create an issue](https://github.com/Sauham/Certificates-Generator-using-LLM-and-Canva/issues)
-2. **Email**: your-email@example.com
+2. **Email**: sauhamv28@gmail.com
 3. **Discussion**: Use GitHub Discussions for general questions
 
 ## 🔗 Related Projects
@@ -298,10 +298,3 @@ If you have any questions or need help with the project:
 Made with ❤️ by [Sauham](https://github.com/Sauham)
 ```
 
-## 📝 Additional Notes
-
-1. **API Key Security**: Remember to replace the hardcoded API key with environment variables in production
-2. **Repository Visibility**: Make sure your repository is public so others can see your work
-3. **Screenshots**: Consider adding actual screenshots of your application to the README
-4. **License File**: Create a LICENSE file if you want to specify licensing terms
-5. **Issues Template**: Add issue templates to help contributors report bugs effectively
